@@ -1,0 +1,3 @@
+## Angular 4 app, with Mapbox
+
+# Work in progress ...
